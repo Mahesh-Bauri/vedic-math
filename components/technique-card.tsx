@@ -22,6 +22,7 @@ const categoryIcons = {
   squares: "²",
   addition: "+",
   subtraction: "−",
+  complement: "−",
 };
 
 export function TechniqueCard({ technique, onSelect }: TechniqueCardProps) {
